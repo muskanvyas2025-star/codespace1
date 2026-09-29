@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<website>
+    <title>My Website</title>
+    <description>Welcome to my website</description>
+
+    <user>
+        <name>John</name>
+        <age>25</age>
+        <email>john@example.com</email>
+    </user>
+
+    <products>
+        <product>
+            <name>Laptop</name>
+            <price>50000</price>
+        </product>
+
+        <product>
+            <name>Phone</name>
+            <price>25000</price>
+        </product>
+    </products>
+</website>
